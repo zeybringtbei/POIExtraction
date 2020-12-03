@@ -13,7 +13,7 @@ pip install osmium
 4. Download a .poly file if you first want to extract a map from (3)
 
 ### Download Maps / Polygons
-1. You can download maps via the Overpass API (https://overpass-turbo.eu/). Copy & Paste this code and navigate to a city, then run it. You can change the borders of the map by changing the administrative level. A (german) overview on administrative levels and their implication can be found here (https://wiki.openstreetmap.org/wiki/DE:Grenze)
+1. You can download maps via the Overpass API (https://overpass-turbo.eu/). Open the website and Copy & Paste the code below and navigate to a city, then run it. You can change the borders of the map by changing the administrative level. A (german) overview on administrative levels and their implication can be found here (https://wiki.openstreetmap.org/wiki/DE:Grenze)
 ```
 /*
 “admin_level=6: Regierungsbezirk”
